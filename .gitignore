@@ -3,3 +3,6 @@ data/
 
 # Jupyter Notebook checkpoints
 EDA/.ipynb_checkpoints/
+
+# On Mac OS
+.DS_Store
