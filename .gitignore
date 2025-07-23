@@ -1,0 +1,5 @@
+# Data Files
+data/
+
+# Jupyter Notebook checkpoints
+EDA/.ipynb_checkpoints/
