@@ -3,6 +3,7 @@ data/
 
 # Jupyter Notebook checkpoints
 EDA/.ipynb_checkpoints/
+데이터크롤링/.ipynb_checkpoints/
 
 # On Mac OS
 .DS_Store
