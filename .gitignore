@@ -7,3 +7,6 @@ EDA/.ipynb_checkpoints/
 
 # On Mac OS
 .DS_Store
+
+# 개인 작업폴더
+workspace/
